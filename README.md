@@ -1,0 +1,2 @@
+# ShinyColorsTCG
+シャニマス同人TCGのWeb用レポジトリです
